@@ -1,0 +1,13 @@
+{
+  "name": "trelloAPI",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "NguyenNhuHoai",
+  "main": "src/server.js",
+  "author": "NguyenNhuHoai",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
